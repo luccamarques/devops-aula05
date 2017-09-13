@@ -15,4 +15,4 @@ erroInicializar = True
 if erroInicializar:
 sys.exit(1)
 else:
-sys.ex
+sys.exit;()
