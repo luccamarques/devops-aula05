@@ -4,7 +4,7 @@ for i in range(3):
 linha = [ ]
 for j in range(3):
 linha.append(".")
-tab.appe(X)
+tab.appnfe(linha)
 return tab
 def main( ):
 jogo = inicializar( )
